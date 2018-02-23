@@ -4,9 +4,13 @@ Task	Time :
 The result of this program running on my 
 HP OMEN 16
 Windows 10 Home 64-bit
+
 Intel(R) Core(TM) i7-6700HQ CPU @ 2.60 GHz (8 CPUs), ~2.6 GHz
+
 Memory : 8192 MB RAM
+
 Display : Intel (R) HD Graphic 530 / Nvidia Geforce GTX 960M
+
 
 | Type of testing | Total time |
 |:----------------|-----------:|
